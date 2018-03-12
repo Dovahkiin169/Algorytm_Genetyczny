@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\mac\source\repos\genpea\main.cpp(29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mac\source\repos\genpea\main.cpp(236): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mac\source\repos\genpea\main.cpp(238): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mac\source\repos\genpea\main.cpp(289): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mac\source\repos\genpea\main.cpp(322): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\mac\source\repos\genpea\main.cpp(384): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  GenPea.vcxproj -> C:\Users\MAC\source\repos\GenPea\x64\Debug\GenPea.exe

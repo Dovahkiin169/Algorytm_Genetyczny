@@ -1,0 +1,12 @@
+﻿  Vec.cpp
+..\Vec.cpp(22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+..\Vec.cpp(151): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+..\Vec.cpp(153): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+..\Vec.cpp(206): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+..\Vec.cpp(244): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 1420 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  GenPea.vcxproj -> C:\Users\MAC\source\repos\GenPea\x64\Release\GenPea.exe

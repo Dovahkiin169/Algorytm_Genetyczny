@@ -1,0 +1,5 @@
+﻿  Vec.cpp
+c:\users\mac\source\repos\genpea\vec.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mac\source\repos\genpea\vec.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mac\source\repos\genpea\vec.cpp(248): warning C4018: >: несоответствие типов со знаком и без знака
+  GenPea.vcxproj -> C:\Users\MAC\source\repos\GenPea\Debug\GenPea.exe
